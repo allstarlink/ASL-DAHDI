@@ -1,3 +1,8 @@
+===============================================
+THIS REPOSITORY HAS BEEN ARCHIVED. 
+SEE https://github.com/AllStarLink/dahdi-linux
+===============================================
+
 Asterisk DAHDI Driver for AllStarLink v3.0.1
 
 Refer to [linux/LICENSE](https://github.com/ajpaul25/ASL-DAHDI/blob/master/linux/LICENSE) for license information
