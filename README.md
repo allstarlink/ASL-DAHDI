@@ -1,7 +1,4 @@
-===============================================
-THIS REPOSITORY HAS BEEN ARCHIVED. 
-SEE https://github.com/AllStarLink/dahdi-linux
-===============================================
+<h1 align=center>THIS REPOSITORY HAS BEEN ARCHIVED. SEE <a href="https://github.com/AllStarLink/dahdi-linux">dahdi-linux</a></h1>
 
 Asterisk DAHDI Driver for AllStarLink v3.0.1
 
